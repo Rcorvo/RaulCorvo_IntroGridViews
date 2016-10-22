@@ -1,0 +1,7 @@
+#Sat Oct 22 23:40:00 CEST 2016
+base.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\IntroduccionalusodeGridViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a81105125b65af6126bc8b1a1d991d8522b93bb9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\IntroduccionalusodeGridViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0f01bfb6b1e21a21142eef7096bc1e040b54a4ad\\classes.dex
+base.1=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\IntroduccionalusodeGridViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0f01bfb6b1e21a21142eef7096bc1e040b54a4ad
+file.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\IntroduccionalusodeGridViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a81105125b65af6126bc8b1a1d991d8522b93bb9\\classes.dex

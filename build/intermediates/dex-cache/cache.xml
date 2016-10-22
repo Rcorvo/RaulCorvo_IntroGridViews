@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_999b0762161e927b12972b11cd203cd91adf5f6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3af994381d4541c3c793adb199c1a2a3b03654f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4e3517387763c8046f869044b71838cbfaeb3d99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_73b346f06a31e26066f4e6e3e5db8ac51f2b13ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_a3d4eb1e81a790fad2d7b32a00d7ca5b4982e3a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_f9b7bacdd201b8bf3f7d49ccfab51edf8c36fa00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_972263a0ba851e45f46e480ac8b16b9db8b75759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2ad285e8b3f92eb4e04a954f9a7ca5a02b6fac33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fb5347174fc1c925eb7d711db12f7ff5a268260e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0f01bfb6b1e21a21142eef7096bc1e040b54a4ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d12f3a5b7444fb85a93bcbd1433177e2424548a0">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a81105125b65af6126bc8b1a1d991d8522b93bb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_87f0e293366f527d8459071171b269a5308b7d74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_41e0cd04e765155d769a8ee7b8cc5d7bf410d657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_414768635bd2331b625245449162d57a907543f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0368eaa5debafb462761852a2ada708eef925e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e8e9aa31532f96b0aae13fc61b507b36b56c0eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ba23ce3cfe87d03f59f9ffda5242adf28745d3ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Raul Corvo\AndroidStudioProjects\IntroduccionalusodeGridViews\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2488eecd202d0543045df2f3560017e24ddb8bdc\classes.dex" />
+    </item>
+
+</items>
